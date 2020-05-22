@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PermissionLibrary</string>
+
+    <string name="permission_ok">确定</string>
+    <string name="permission_close">关闭</string>
+    <string name="permission_cancel">取消</string>
+    <string name="permission_setting">去设置</string>
+    <string name="permission_deny">拒绝</string>
+    <string name="permission_denied_msg_default">%s被禁止，请到应用设置界面开启权限</string>
+    <string name="permission_hint_calendar">访问日历权限</string>
+    <string name="permission_hint_camera">访问摄像头权限</string>
+    <string name="permission_hint_contacts">访问通讯录权限</string>
+    <string name="permission_hint_location">访问设备位置信息权限</string>
+    <string name="permission_hint_microphone">访问麦克风设备权限</string>
+    <string name="permission_hint_phone">访问手机状态等权限</string>
+    <string name="permission_hint_sensors">访问设备传感器权限</string>
+    <string name="permission_hint_sms">访问短信权限</string>
+    <string name="permission_hint_storage">访问扩展存储器权限</string>
+    <string name="permission_hint_write_setting">修改系统设置权限</string>
+    <string name="permission_hint_sys_alert_window">系统窗口权限</string>
+    <string name="permission_name">权限</string>
+    <string name="permission_need">需要</string>
+
+
+    <string name="request_permission">request</string>
+    <string name="request_permission_all">request all</string>
+    <string name="open_permission_setting">setting</string>
+    <string name="open_battery_optimization_settings">battery_optimization_settings</string>
+    <string name="permission_internet" format="false">android.permission.INTERNET</string>
+    <string name="normal_permission_status" format="false">normal permission status: %s</string>
+
+    <string name="permission_camera" format="false">android.permission.CAMERA</string>
+    <string name="dangerous_permission_status" format="false">dangerous permission status: %s</string>
+
+    <string name="permission_access_coarse_location" format="false">android.permission.ACCESS_COARSE_LOCATION</string>
+
+    <string name="permission_system_alert_window" format="false">android.permission.SYSTEM_ALERT_WINDOW</string>
+    <string name="system_permission_status" format="false">other system permission status: %s</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_b">BActivity</string>
+</resources>
